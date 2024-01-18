@@ -1,4 +1,4 @@
-#include <iostream>
+m#include <iostream>
 #include <string>
 #include <vector>
 #include <algorithm>
@@ -106,6 +106,7 @@ int main()
             break;
             case 4:
             delCont(cont);
+            break;
             case 5:
             cout<<"Contact Book closed.";
             break;
